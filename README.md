@@ -326,4 +326,4 @@ Noha Salama has written the APIs in `__init__.py`, the test cases in `test_flask
 The rest of the project files, including the models and the frontend, were created by [Udacity](https://www.udacity.com/) as a project base code for project 2 for the [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044).
 
 ## Acknowledgements 
-The awesome team at Udacity# trivia_project
+The awesome team at Udacity
